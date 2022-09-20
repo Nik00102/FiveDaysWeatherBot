@@ -1,1 +1,1 @@
-web: java -jar target/FiveDaysWeatherBot-0.0.1-SNAPSHOT.jar
+worker: java $JAVA_OPTS -jar target/FiveDaysWeatherBot-0.0.1-SNAPSHOT.jar
