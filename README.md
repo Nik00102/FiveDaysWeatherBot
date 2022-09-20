@@ -7,7 +7,7 @@
 1. Запустите IntelliJ IDEA и создайте новый файл, используя GIT (File -> New -> Project from Version Control...).
 2. Ссылка для скачивания https://github.com/Nik00102/FiveDaysWeatherBot.git .
 3. Зарегистрируйтесь на сайте погоды https://openweathermap.org/, после регистрации будет доступен ключ API (*apiKey*).
-4. Получите токен (*botToken*) и создайте нового бота (*botUserName*) через @BotFather в телеграме коммандой "/newbot".
+4. Получите токен (*botToken*) и создайте нового бота (*botUserName*) через @BotFather в Telegram приложении коммандой "/newbot".
 5. Запишите все полученные *apiKey*, *botToken*, *botUserName* в файл application.properties (расположен в папке */src/main/resources/*)
 6. Скомпилируйте файл FiveDaysWeatherBotApplication.java.
 7. Зарегистрируйтесь на сайте Heroku.com и создайте приложение на сайте (Heroku - это облачная платформа, и ее можно использовать для того, чтобы запускать приложение не только на локальной машине, но и удаленно).
