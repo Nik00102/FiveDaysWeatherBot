@@ -1,9 +1,9 @@
-#FiveDaysWeatherBot
+#FiveDaysWeatherBot#
 
-##Описание проекта:
+##Описание проекта:##
 Бот предоставляет возможность узнать прогноз погоды на пять дней в любом городе, используя приложение телеграм.
 
-##Настройка и установка:
+##Настройка и установка:##
 1. Запустите IntelliJ IDEA и создайте новый файл, используя GIT (File -> New -> Project from Version Control...).
 2. Ссылка для скачивания https://github.com/Nik00102/FiveDaysWeatherBot.git .
 3. Скомпилируйте файл FiveDaysWeatherBotApplication.java.
