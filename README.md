@@ -29,4 +29,4 @@
 **heroku logs --tail**
 
 ## Окно информационного бота с прогнозом погоды
-![Бот](pic/bot-image.jpg)
+![Бот](pic/bot_image.jpg)
