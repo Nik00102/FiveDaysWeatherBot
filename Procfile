@@ -1,0 +1,1 @@
+web: java -jar target/FiveDaysWeatherBot-0.0.1-SNAPSHOT.jar
