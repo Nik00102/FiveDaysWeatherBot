@@ -12,7 +12,7 @@
 6. Записать все полученные *apiKey*, *botToken*, *botUserName* в файл application.properties (расположен в папке */src/main/resources/*)
 7. Зарегистрируйтесь на сайте Heroku.com и создайте приложение на сайте (Heroku - это облачная платформа, и ее можно использовать для того, чтобы запускать приложение не только на локальной машине, но и удаленно).
 8. Конфигурационный файл Procfile (без расширения, важно!) уже есть в директории проекта.
-    Содержимое Procfile: **web: java -jar target/FiveDaysWeatherBot-0.0.1-SNAPSHOT.jar**
+    Содержимое Procfile: **worker: java $JAVA_OPTS -jar target/FiveDaysWeatherBot-0.0.1-SNAPSHOT.jar**
  9. В папке с проектом в командной строке или bash необходимо выполнить команду: 
  **heroku login**
  10. Инициализировать репозиторий:
